@@ -1,2 +1,2 @@
-# aws-go-monorepo-lambdas
-AWS Golang monorepo lambdas
+# aws-go-multi-lambdas
+AWS Golang multi lambdas
