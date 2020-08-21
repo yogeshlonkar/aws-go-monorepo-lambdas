@@ -1,4 +1,4 @@
-module github.com/yogeshlonkar/aws-go-monorepo-lambdas/second-lambda
+module github.com/yogeshlonkar/aws-go-monorepo-lambdas/first-lambda
 
 go 1.13
 
